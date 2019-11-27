@@ -1,0 +1,11 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation rootProject.ext.dependencies.netty_all
+    implementation rootProject.ext.dependencies.protobuf
+    implementation rootProject.ext.dependencies.fastjson
+}
+
+sourceCompatibility = "7"
+targetCompatibility = "7"
