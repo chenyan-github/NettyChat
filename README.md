@@ -9,4 +9,4 @@
 ##### 运行示例图
 
 <img src="https://github.com/chenyan-github/NettyChat/blob/master/image/test1.png" width = "360" height = "640"/>
-<img src="https://github.com/chenyan-github/NettyChat/blob/master/image/test2.png" width = "360" height = "640"/>
+<img src="https://github.com/chenyan-github/NettyChat/blob/master/image/test2.jpeg" width = "360" height = "640"/>
